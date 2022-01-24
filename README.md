@@ -12,7 +12,6 @@ There is a constant use of PyBear through out the first half of the year. There 
 
 
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 - Although we get more than half of our fares from the urban area, it is best that we have less drivers in that area, because many of them never had a ride in the first half of the year and urban drivers are getting as paid as well as the other city types. We should make a plan so that urban get paid better becuase they are the least paid compared to the other city type drivers. We should also consider removing the drivers that never gave a ride that time so that we can get a more accurate conclusion. 
 - On the line graph, we can see that we can expect at least $500 and at most $1500 fares, from suburban areas. We can also expect at least $1,500 in fares from urban areas. 
 - Beacause there are less drivers and more rides in rural and suburban cities, there average fare per ride is higher than average fare per driver.
